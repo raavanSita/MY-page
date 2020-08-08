@@ -4312,8 +4312,13 @@
 		}
 
 		.hov{
-			color: rgb(238, 0, 0);
+			color: rgb(255, 255, 255);
 			 text-decoration: none;
+			 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+			 font-size: medium;
+			 font-weight: lighter;
+			 font-size-adjust: inherit;
+		
 		}
 		.hov:hover{
 			color: rgb(196, 196, 228);
