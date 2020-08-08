@@ -4310,3 +4310,18 @@
 			}
 
 		}
+
+		.hov{
+			color: rgb(255, 255, 255);
+			 text-decoration: none;
+		}
+		.hov:hover{
+			color: rgb(196, 196, 228);
+			text-decoration: none;
+		}
+
+		.navH{
+			overflow: hidden;
+			position: fixed;
+			top: 0;
+		}
