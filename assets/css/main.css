@@ -4322,6 +4322,6 @@
 
 		.navH{
 			overflow: hidden;
-			position: fixed;
+			position: sticky;
 			top: 0;
 		}
